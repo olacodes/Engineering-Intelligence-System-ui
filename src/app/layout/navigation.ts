@@ -1,6 +1,6 @@
 export const navigationItems = [
   { label: "Ask", path: "/ask", description: "Query engineering knowledge" },
-  { label: "Search", path: "/search", description: "Search indexed sources" },
+  // { label: "Search", path: "/search", description: "Search indexed sources" },
   {
     label: "Ingestion",
     path: "/ingestion",
